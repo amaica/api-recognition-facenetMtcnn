@@ -1,4 +1,5 @@
    api-recognition-facenetMtcnn
+   
 This is the dl4j implementation of facenet Environment requirements: 1.JDK1.8 or higher 2.maven 3.3.9 or higher
 
 This application build on https://github.com/cfg1234/dl4j-facenet
@@ -6,7 +7,7 @@ This application build on https://github.com/cfg1234/dl4j-facenet
  Application uses:
 Multi-task Cascaded Convolutional Networks (MTCNN) to detect faces on image
 Inception ResNet V1 neural network to build face feature vector
-Euclidean distance (as default) to calculate similarity between two face feature vectors. There is cosine distance verifier in application. Change @Qualifier(FeatureVerifier.EUCLIDEAN_DISTANCE) to @Qualifier(FeatureVerifier.COSINE_DISTANCE) in constructor of DataSetFeatureBank class in order to switch between two algorithm.
+Euclidean distance (as default) to calculate similarity between two face feature vectors. There is cosine distance verifier in application.
 
 
 
