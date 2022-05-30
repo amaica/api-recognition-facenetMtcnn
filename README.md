@@ -1,4 +1,4 @@
-api-recognition
+   api-recognition-facenetMtcnn
 This is the dl4j implementation of facenet Environment requirements: 1.JDK1.8 or higher 2.maven 3.3.9 or higher
 
 This application build on https://github.com/cfg1234/dl4j-facenet
