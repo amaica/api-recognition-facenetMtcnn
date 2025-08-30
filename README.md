@@ -1,4 +1,4 @@
-# 🧠 api-recognition-facenetMtcnn
+# 🧠 API de Reconhecimento Facial (FaceNet + MTCNN)
 
 **Reconhecimento Facial Inteligente com Java + DL4J + FaceNet + MTCNN**
 
