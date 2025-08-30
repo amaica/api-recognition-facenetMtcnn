@@ -1,5 +1,4 @@
-# 🧠 api-recognition-facenetMtcnn
-
+# 🧠 API de Reconhecimento Facial (FaceNet + MTCNN)
 **Reconhecimento Facial Inteligente com Java + DL4J + FaceNet + MTCNN**
 
 > Sistema de reconhecimento facial de alto desempenho, projetado para integração em soluções corporativas, embarcadas ou offline.
